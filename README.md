@@ -1,87 +1,171 @@
-<h1 align="center">Hi 👋, I'm Christian G. Pantilon</h1>
-<h3 align="center">A passionate Web and Mobile Developer building modern, user-friendly, and scalable applications.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itschristianpantilon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itschristianpantilon" alt="GitHub Trophies" />
-  </a>
-</p>
+# Christian G. Pantilon
 
----
+### Web & Mobile Developer | AI Integration Specialist
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;AI-Powered+Applications;Full-Stack+Development;Mobile+%26+Web+Innovation" alt="Typing SVG" />
 
-I'm a developer focused on creating impactful solutions at the intersection of web/mobile technology and artificial intelligence.
+<br>
 
-* 🔭 I’m currently working on **AI-Powered Systems**.
-* 🌱 I’m currently learning and deepening my expertise in **Artificial Intelligence, Angular, and Vue.js**.
-* 📫 How to reach me: **pantilonchristian@gmail.com**
+[![Profile Views](https://komarev.com/ghpvc/?username=itschristianpantilon&label=Profile%20Views&color=3b82f6&style=for-the-badge)](https://github.com/itschristianpantilon)
+[![Followers](https://img.shields.io/github/followers/itschristianpantilon?label=Followers&style=for-the-badge&color=3b82f6)](https://github.com/itschristianpantilon?tab=followers)
+[![Stars](https://img.shields.io/github/stars/itschristianpantilon?label=Stars&style=for-the-badge&color=fbbf24)](https://github.com/itschristianpantilon)
 
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/christian_pantilon" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian_pantilon" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/christiangpantilon" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="christian g. pantilon" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/christian_pantilon00" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christian_pantilon00" height="30" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
 
-To provide a clearer picture of my skills, I've grouped them by area of expertise.
 
-<h4>Mobile Development</h4>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+## 👨‍💻 About Me
 
-<h4>Frontend Development</h4>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-</p>
+**Full-Stack Developer** specializing in AI integration and scalable solutions. I build intelligent systems that bridge cutting-edge technology with real-world applications.
 
-<h4>Backend & Database</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
+🎯 **Currently Working On:**
+- AI-Powered Screening Applications
+- Integrated Financial Monitoring Systems
+- Intelligent Data Analytics Platforms
 
-<h4>AI, Data & Visualization</h4>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-</p>
+📚 **Expanding My Skills In:**
+Angular • Vue.js • Deep Learning • Cloud Architecture
 
-<h4>Tools & Platforms</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+💡 **What Drives Me:**
+Creating intelligent systems that solve real-world problems through clean code, smart solutions, and exceptional user experience.
+<div align="center">
+
+### 🎯 Current Focus
+
+Building intelligent, user-centric applications that leverage AI to deliver exceptional value and performance.
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Artificial Intelligence & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itschristianpantilon&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itschristianpantilon&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itschristianpantilon&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=itschristianpantilon&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itschristianpantilon&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **AI Screening System** | Intelligent application screening with ML-powered analysis | Python, TensorFlow, React |
+| 💰 **Financial Monitor** | Real-time financial tracking and analytics platform | Node.js, React Native, MySQL |
+| 📊 **Data Analytics Dashboard** | Interactive data visualization and reporting tool | Vue.js, Python, Firebase |
+
+</div>
+
+---
+
+## 🌟 What I Bring to the Table
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64"/>
+      <br><strong>Clean Architecture</strong>
+      <br>Scalable, maintainable code following best practices
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64"/>
+      <br><strong>AI Integration</strong>
+      <br>Smart solutions powered by machine learning
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/user-experience.png" width="64"/>
+      <br><strong>User-Centric Design</strong>
+      <br>Intuitive interfaces with exceptional UX
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-pantilonchristian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pantilonchristian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-christian__pantilon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian_pantilon)
+[![Kaggle](https://img.shields.io/badge/Kaggle-christiangpantilon-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/christiangpantilon)
+[![Facebook](https://img.shields.io/badge/Facebook-christian__pantilon00-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/christian_pantilon00)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
