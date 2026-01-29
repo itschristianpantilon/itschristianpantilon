@@ -111,19 +111,7 @@ Building intelligent, user-centric applications that leverage AI to deliver exce
 
 ---
 
-## 🎯 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Screening System** | Intelligent application screening with ML-powered analysis | Python, TensorFlow, React |
-| 💰 **Financial Monitor** | Real-time financial tracking and analytics platform | Node.js, React Native, MySQL |
-| 📊 **Data Analytics Dashboard** | Interactive data visualization and reporting tool | Vue.js, Python, Firebase |
-
-</div>
-
----
 
 ## 🌟 What I Bring to the Table
 
