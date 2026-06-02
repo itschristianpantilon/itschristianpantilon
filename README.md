@@ -4,9 +4,6 @@
 
 ### Web & Mobile Developer | AI Integration Specialist
 
-[![Profile Views](https://komarev.com/ghpvc/?username=itschristianpantilon&label=Profile%20Views&color=3b82f6&style=for-the-badge)](https://github.com/itschristianpantilon)
-[![Followers](https://img.shields.io/github/followers/itschristianpantilon?label=Followers&style=for-the-badge&color=3b82f6)](https://github.com/itschristianpantilon?tab=followers)
-
 </div>
 
 ---
